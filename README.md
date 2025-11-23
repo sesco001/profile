@@ -14,7 +14,20 @@ I'm dedicated to building modern web applications and continuously expanding my 
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="350"/>
 🌐 Socials:
-<div align="left"> <a href="https://www.linkedin.com/in/yourprofile/" target="_blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" /> </a> <a href="mailto:your-email@gmail.com" target="_blank"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" /> </a> </div>
+<div align="left">
+  <a href="https://www.linkedin.com/in/yourprofile/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+
+  <a href="mailto:makamescodigitalsolutions@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+  </a>
+
+  <a href="https://wa.me/254769995625?text=Hello%20I%20am%20from%20GitHub" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo" />
+  </a>
+</div>
+
 💻 Tech Stack
 <div align="left"> <img src="https://img.shields.io/static/v1?message=HTML5&logo=html5&label=&color=E34F26&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="html5 logo" /> <img src="https://img.shields.io/static/v1?message=CSS3&logo=css3&label=&color=1572B6&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="css3 logo" /> <img src="https://img.shields.io/static/v1?message=JavaScript&logo=javascript&label=&color=F7DF1E&logoColor=black&labelColor=&style=for-the-badge" height="30" alt="javascript logo" /> <img src="https://img.shields.io/static/v1?message=TypeScript&logo=typescript&label=&color=3178C6&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="typescript logo" /> <img src="https://img.shields.io/static/v1?message=Python&logo=python&label=&color=3776AB&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="python logo" /> <img src="https://img.shields.io/static/v1?message=Node.js&logo=nodedotjs&label=&color=339933&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="nodejs logo" /> <img src="https://img.shields.io/static/v1?message=Express&logo=express&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="express logo" /> <img src="https://img.shields.io/static/v1?message=React&logo=react&label=&color=61DAFB&logoColor=black&labelColor=&style=for-the-badge" height="30" alt="react logo" /> <img src="https://img.shields.io/static/v1?message=MongoDB&logo=mongodb&label=&color=47A248&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="mongodb logo" /> <img src="https://img.shields.io/static/v1?message=MySQL&logo=mysql&label=&color=4479A1&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="mysql logo" /> <img src="https://img.shields.io/static/v1?message=Git&logo=git&label=&color=F05032&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="git logo" /> <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="github logo" /> </div>
 📊 GitHub Stats:
